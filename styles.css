@@ -1,8 +1,24 @@
 .gemStacks {
-  width: 200px;
+  width: 100px;
+  height: 100px;
 }
 
 .gemimg {
   height: 100px;
   width: 100px;
+}
+
+.gemImg {
+  width: 100px;
+  height: 100px;
+}
+
+.gemImg h2 {
+  position: relative;
+  top: -83px;
+  left: 44px;
+}
+
+.gemImg span {
+  color: white;
 }
