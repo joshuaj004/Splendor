@@ -4,3 +4,5 @@ var Player = function(name, gems, cards, reserve) {
   this.cards = cards;
   this.reserve = reserve;
 }
+
+var p1 = new Player("Josh", [0, 0, 0, 0, 0, 0], [], []);
