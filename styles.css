@@ -15,10 +15,12 @@
 
 .gemImg h2 {
   position: relative;
-  top: -83px;
-  left: 44px;
+  top: -90px;
+  left: 43px;
 }
 
 .gemImg span {
+  font-size: 28px;
   color: white;
+  text-shadow: 2px 2px black;
 }
