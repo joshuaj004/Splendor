@@ -13,6 +13,10 @@
   height: 100px;
 }
 
+.gemImg:hover {
+  background-color: orange;
+}
+
 .gemImg h2 {
   position: relative;
   top: -90px;
