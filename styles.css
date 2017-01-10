@@ -1,30 +1,30 @@
 .gemStacks {
-  width: 100px;
-  height: 100px;
+    width: 100px;
+    height: 100px;
 }
 
 .gemimg {
-  height: 100px;
-  width: 100px;
+    height: 100px;
+    width: 100px;
 }
 
 .gemImg {
-  width: 100px;
-  height: 100px;
+    width: 100px;
+    height: 100px;
 }
 
 .gemImg:hover {
-  background-color: orange;
+    background-color: orange;
 }
 
 .gemImg h2 {
-  position: relative;
-  top: -90px;
-  left: 43px;
+    position: relative;
+    top: -90px;
+    left: 43px;
 }
 
 .gemImg span {
-  font-size: 28px;
-  color: white;
-  text-shadow: 2px 2px black;
+    font-size: 28px;
+    color: white;
+    text-shadow: 2px 2px black;
 }
